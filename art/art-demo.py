@@ -23,7 +23,7 @@ line(560,0,560,495)
 
 text(600, 100, "Hello Tealight!")
 
-lastx = Noned
+lastx = None
 lasty = None
 hue = 0
 
